@@ -1,16 +1,36 @@
-## Hi there 👋
+# AI Automation & Solutions Engineer
 
-<!--
-**buildswithaamina/buildswithaamina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Building practical AI systems for real business problems.
 
-Here are some ideas to get you started:
+I design AI-powered workflows, automation systems, and custom applications that help SMEs improve efficiency and streamline business operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Areas of focus**
+- AI-powered business process automation
+- Intelligent sales and lead qualification systems
+- Custom LLM-powered business applications
+- API integrations and workflow orchestration
+- AI agents with human oversight
+
+**Technology stack**
+
+Python | n8n | Gemini | REST APIs | SQL | Git
+
+## Featured Projects
+
+**PitchStratum — AI Sales Prospect Qualifier**
+
+An AI-powered application that analyzes inbound prospects, matches their business needs with a service catalog, and generates personalized sales pitches, objections, and discovery questions.
+
+**AI Document Processing Workflow**
+
+A system for extracting, validating, and routing information from business documents.
+
+**AI Customer Support Assistant**
+
+A knowledge-grounded assistant that helps answer customer questions and escalates uncertain cases to a human.
+
+## Engineering Approach
+
+I focus on maintainable integrations, secure handling of business data, error recovery, and measurable business outcomes.
+
+**Open to AI automation and custom AI development projects.**
