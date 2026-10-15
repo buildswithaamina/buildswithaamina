@@ -17,15 +17,20 @@ Python | n8n | Gemini | REST APIs | SQL | Git
 
 ## Featured Projects
 
-**PitchStratum — AI Sales Prospect Qualifier**
+**⚡PitchStratum — AI Sales Prospect Qualifier**
 
 An AI-powered application that analyzes inbound prospects, matches their business needs with a service catalog, and generates personalized sales pitches, objections, and discovery questions.
 
-**AI Document Processing Workflow**
+**⚡Utility Bill Decoder**
+
+An AI-powered assistant that reads complex electricity bills (K-Electric, LESCO, IESCO), extracts detailed billing data into structured JSON, and acts as a customer support agent to answer user questions in plain English.
+Try it yourself: https://github.com/buildswithaamina/utility-bill-decoder
+
+**⚡AI Document Processing Workflow**
 
 A system for extracting, validating, and routing information from business documents.
 
-**AI Customer Support Assistant**
+**⚡AI Customer Support Assistant**
 
 A knowledge-grounded assistant that helps answer customer questions and escalates uncertain cases to a human.
 
